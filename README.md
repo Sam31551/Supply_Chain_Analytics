@@ -1,13 +1,4 @@
----
-title: "ReadME"
-author: "Sam Ryder"
-date: "`r Sys.Date()`"
-output: pdf_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Sentiment Analysis of Ben & Jerry's Ice Cream Reviews
 
